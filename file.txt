@@ -1,11 +1,9 @@
-
-
-test1 - line4
+test1 - line3
 dev2 - line5
 origin/master  - line 45
 origin/master  - line 55
-test1 - line5
-test1 - line6
+test1 - line7
+test1 - line7
 origin/master  - line 1
 origin/master  - line 2 
 origin/master  - line 3
