@@ -1,8 +1,8 @@
-master - line 1
-master - line 2
+master - line 8
+master - line 7
 test1 - line6
-test1 - line4
-dev2 - line5
+test1 - line9
+dev2 - line7
 origin/master  - line 45
 origin/master  - line 55
 test1 - line5
