@@ -1,14 +1,8 @@
-<<<<<<< HEAD
+
 master - line 4
 master - line 3
 test1 - line1
-test1 - line2
-dev2 - line
-origin/master  - line 4
-origin/master  - line 5
-test1 - line5
-test1 - line6
-origin/master  - line 1
+
 origin/master  - line 2 
 origin/master  - line 3
 origin/master  - line 4
