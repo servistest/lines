@@ -1,7 +1,7 @@
 master - line 1
 master - line 2
-master - line 3
-dev1 - line
+test1 - line1
+test1 - line2
 dev2 - line
 origin/master  - line 1
 origin/master  - line 2 
